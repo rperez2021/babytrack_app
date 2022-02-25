@@ -10,3 +10,6 @@ Yeah lets get started.
 flutter pub get
 flutter run
 ```
+
+## Repo Visualization
+![Visualization of the codebase](./diagram.svg)
