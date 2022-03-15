@@ -11,5 +11,11 @@ flutter pub get
 flutter run
 ```
 
+Due to changes in some of the packages I now have to run it with no-null-safety:
+
+```dart
+flutter run --no-sound-null-safety      
+```
+
 ## Repo Visualization
 ![Visualization of the codebase](./diagram.svg)
